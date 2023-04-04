@@ -57,7 +57,7 @@
         <col style="width:200px;">
       </colgroup>
       <tr>
-        <th rowspan="5">사진</th>
+        <th rowspan="5"><img src="윤규헌.jpg" width="100" height="auto"></th>
         <th class="highlight">성명</th>
         <td style="text-align:center">윤규헌</td>
         <th class="highlight">영문이름</th>
