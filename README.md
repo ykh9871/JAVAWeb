@@ -1,1 +1,1 @@
-# JAVAWeb
+# JAVAWeb 과 JPA
