@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* 너비나 높이를 지정하지 않으면 셀 안의 내용이 표시될 만큼
+만 표시된다. • width 값을 지정할 경우 padding 속성을 이용해 여백을 넣어
+주면 보기 좋게 꾸밀 수 있다.*/
+table {
+	border-collapse:collapse;
+	width:300px;
+}
+td {
+	padding:10px;
+}

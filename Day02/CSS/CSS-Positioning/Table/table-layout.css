@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/*셀 안의 내용 양에 따라 셀 너비를 변하게 할지, 고정시킬지 결정*/
+
+.table1 {
+	border-collapse:collapse;
+	width:300px;
+	table-layout:fixed;
+	word-break:break-all;
+	height:auto;
+}
+.table1 td {
+	width:150px;
+	border:1px solid black;
+	padding:5px;
+}

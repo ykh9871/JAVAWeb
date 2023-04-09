@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/*• 캡션(설명글)은 기본으로 표 위쪽에 표시됨.
+• 이 속성을 이용해 아래쪽에 표시 가능*/
+.table1 {
+	border:1px solid black;
+}
+.table1 td {
+	border:1px dotted black;
+}

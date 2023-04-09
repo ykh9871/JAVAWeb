@@ -1,0 +1,8 @@
+@charset "UTF-8";
+#no-delay {
+	transition-duration: 3s;
+}
+#delay {
+	transition-duration: 3s;
+	transition-delay : 1s;
+}

@@ -1,0 +1,5 @@
+@charset "UTF-8";
+/*셀 안에서의 수평 정렬 방법*/
+.table1 td {
+	text-align:center;
+}

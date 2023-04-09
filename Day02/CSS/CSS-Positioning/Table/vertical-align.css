@@ -1,0 +1,5 @@
+@charset "UTF-8";
+/*셀 안에서의 수직 정렬 방법*/
+.va1 { vertical-align:top; }
+.va2 { vertical-align:bottom; }
+.va3 { vertical-align:middle; }

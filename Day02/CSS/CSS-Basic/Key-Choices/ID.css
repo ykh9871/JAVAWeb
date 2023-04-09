@@ -1,0 +1,7 @@
+@charset "UTF-8";
+#container {
+background: #ff6a00; /* 배경색 */
+width:400px; /* 너비 */
+height:200px; /* 높이 */
+margin:0 auto; /* 가로로 중앙에 배치 */
+}

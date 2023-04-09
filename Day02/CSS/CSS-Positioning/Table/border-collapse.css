@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* 표 테두리와 셀 테두리를 합칠 것인지 설정*/
+.table{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+.table td {
+	border:1px dashed black;
+}

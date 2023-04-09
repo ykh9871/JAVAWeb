@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/*border-collapse:separate를 사용해 셀들을 분리했을 경우, 내
+용이 없는 빈 셀들의 표시 여부를 지정*/
+.schedule { border-collapse:separate; }
+td { border:1px solid black; }
+#tb1 td{ empty-cells:show; }
+#tb2 td { empty-cells:hide; }
